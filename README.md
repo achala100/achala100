@@ -1,27 +1,38 @@
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-6. **Profile Overview Example**:
-Here’s a suggested template for your GitHub profile `README.md`:
+###
 
-```md
-# Hello! I'm Achala 👋
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-## Senior DevOps Engineer | Cloud Automation | Cybersecurity Enthusiast
+###
 
-I am a Senior DevOps Engineer with 7+ years of experience in managing cloud environments (AWS, Azure, GCP) and implementing Infrastructure as Code using tools like Kubernetes and Terraform. Currently pursuing an MSc in Cyber Security, I'm passionate about designing secure, scalable cloud solutions.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
+</div>
 
-- 🔭 I’m currently working on cloud automation and enhancing SOC infrastructure.
-- 🌱 I’m currently learning more about cryptographic hashing and security best practices.
-- 💬 Ask me about cloud infrastructure, CI/CD pipelines, or big data management.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile/) | [Email](mailto:your-email@gmail.com)
+###
 
-## Featured Projects
-- 🚀 [MD5 Hashing Example](https://github.com/achala100/md5-hashing-example): A simple project demonstrating MD5 hash generation in Python.
-- 🛠 [Helm Kubernetes Deployment](https://github.com/achala100/helm-deployment): Automated Kubernetes deployments using Helm and GitLab CI/CD.
-- ☁️ [Terraform Azure Resources](https://github.com/achala100/terraform-azure): Examples of automating Azure resources using Terraform.
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-## Technologies & Tools
-- **Cloud Providers**: AWS, Azure, GCP
-- **Languages**: Python, Bash, Go
-- **DevOps Tools**: Kubernetes, Docker, Terraform, Ansible, GitLab CI/CD
-- **Security**: SIEM, Firewalls, Encryption
-- **Certifications**: AWS Solutions Architect, CKA, RHCE, Microsoft Azure Fundamentals
+###
